@@ -7,12 +7,8 @@ pipeline {
     stage("build") {
       
       steps {
-        
+        echo 'omer king'        
       }
     }
   }
-}
-
-node {
-  //grovy script
 }
