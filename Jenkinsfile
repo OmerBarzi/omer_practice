@@ -7,7 +7,7 @@ pipeline {
     stage("build") {
       
       steps {
-        echo 'omer m king'        
+        echo 'omer mm king'        
       }
     }
   }
